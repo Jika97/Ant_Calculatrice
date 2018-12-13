@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="JIKA-PC" name="CalculatriceTest" skipped="0" tests="4" time="0.296" timestamp="2018-12-08T17:19:30">
+  <properties>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="10" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ant.project.name" value="Ant_Calculatrice" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="main.src.dir" value="src/main" />
+    <property name="java.class.path" value="/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/lib/junit.jar:/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/lib/hamcrest-core-1.3.jar:/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/build:/usr/share/ant/lib/junit.jar:/usr/share/java/ant-launcher-1.10.3.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
+    <property name="test.src.dir" value="src/test" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="test.build.dir" value="build" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="user.timezone" value="" />
+    <property name="os.name" value="Linux" />
+    <property name="java.vm.specification.version" value="10" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner CalculatriceTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/report/junitreport/TEST-CalculatriceTest.xml crashfile=/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/junitvmwatcher12540813479659353791.properties propsfile=/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/junit4389528768694585525.properties" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="/home/jika" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2018-07-17" />
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64" />
+    <property name="file.separator" value="/" />
+    <property name="basedir" value="/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="ant.java.version" value="10" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="doc.dir" value="doc" />
+    <property name="ant.file.type.Ant_Calculatrice" value="file" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="junitreport.report.dir" value="report/junitreport" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="10.0.2+13-Ubuntu-1ubuntu0.18.04.3" />
+    <property name="ant.file.Ant_Calculatrice" value="/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/build.xml" />
+    <property name="user.name" value="jika" />
+    <property name="ant.file" value="/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice/build.xml" />
+    <property name="path.separator" value=":" />
+    <property name="main.build.dir" value="build" />
+    <property name="os.version" value="4.4.0-17134-Microsoft" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="main" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="java.version" value="10.0.2" />
+    <property name="user.dir" value="/mnt/c/Users/fjika/Google Drive/Université/M1 Miage/IL/Ant Tuto/Ant_Calculatrice" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.3 compiled on July 19 2018" />
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.version" value="10.0.2+13-Ubuntu-1ubuntu0.18.04.3" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="54.0" />
+    <property name="jar.build.dir" value="build/jar" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.default-target" value="main" />
+  </properties>
+  <testcase classname="CalculatriceTest" name="testMoins" time="0.001" />
+  <testcase classname="CalculatriceTest" name="testDiv1" time="0.0" />
+  <testcase classname="CalculatriceTest" name="testFois" time="0.001" />
+  <testcase classname="CalculatriceTest" name="testPlus" time="0.0" />
+  <system-out><![CDATA[moins
+div
+fois
+plus
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

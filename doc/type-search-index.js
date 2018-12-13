@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Calculatrice"},{"p":"<Unnamed>","l":"CalculatriceTest"},{"p":"<Unnamed>","l":"Main"}]
